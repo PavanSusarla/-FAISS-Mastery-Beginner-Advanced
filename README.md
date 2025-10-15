@@ -2,7 +2,6 @@
 
 A hands-on FAISS (Facebook AI Similarity Search) notebook and demo that takes you from basics to production-ready topics: index types, distance metrics, ANN tuning, GPU acceleration, PQ compression, HNSW graphs, and an end-to-end semantic search demo using `sentence-transformers`.
 
-**Notebook (PDF):** faiss_1760545212.pdf. :contentReference[oaicite:0]{index=0}
 
 ---
 
